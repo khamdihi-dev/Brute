@@ -7,8 +7,8 @@
     $ pip install requests
     $ pip install rich
     $ pkg install git
-    $ git clone https://github.com/khamdihi-dev/jembut
-    $ cd jembut
+    $ git clone https://github.com/khamdihi-dev/Brute
+    $ cd Brute
     $ python main.py
 
     $ key : MGSAN-PFYZO-UBSIZ-UKETT
