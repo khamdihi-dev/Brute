@@ -11,7 +11,7 @@
     $ cd Brute
     $ python main.py
 
-### tentang saya, di baca 
+### di baca mas/mba
     * Setiap pengguna akan mendapatkan trial 1jam 
     * Jadi jika tidak ada hasil di trial anda bisa membatalkan pembelian
     * Jika sandi salah saat login coba mode pesawat 2/3 detik
