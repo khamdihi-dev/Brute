@@ -9,7 +9,7 @@
     $ pkg install git
     $ git clone https://github.com/khamdihi-dev/Brute
     $ cd Brute
-    $ python main.py
+    $ python run.py
 
 ### di baca mas/mba
     * Setiap pengguna akan mendapatkan trial 1jam 
